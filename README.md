@@ -1,1 +1,1 @@
-Root README
+Shell basics repository
