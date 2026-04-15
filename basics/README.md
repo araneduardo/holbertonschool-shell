@@ -1,1 +1,1 @@
-This directory contains basic shell scripts
+This directory contains scripts for learning basic shell commands
